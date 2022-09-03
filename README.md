@@ -1,11 +1,13 @@
 # Zoom-Meeting-Integration ( Laravel & javascript )
-# Developer Abd Al Kareem Mushtaha
+# Soon 
 Laravel Live  Zoom Meeting  Integration 
 
-* php artisan migrate:fresh --seed
+* make command php artisan migrate:fresh --seed
 
 * in file .env add ZOOM_SDK_KEY
 
 * in file .env add ZOOM_SDK_SECRET
 
-*
+* make command php artisan config:cache 
+
+
